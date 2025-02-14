@@ -53,7 +53,7 @@
                 <ul>
                     <li><a href="#hero" class="active">Home<br></a></li>
                     <li><a href="#about">Tentang</a></li>
-                    <li><a href="#services">Services</a></li>
+                    <li><a href="#total">Layanan</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -138,8 +138,8 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Tentang Kami</h2>
-                <p>Dengan layanan kami, Anda dapat mengakses informasi terkini dan melaporkan berbagai masalah secara
-                    langsung ke pihak berwenang.</p>
+                <p>Website ini menyediakan platform untuk masyarakat dalam menyampaikan pengaduan terkait layanan
+                    publik.</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -150,16 +150,15 @@
                         <div class="service-item position-relative">
                             <i class="bi bi-activity"></i>
                             <h4><a href="" class="stretched-link">Laporan Pengaduan</a></h4>
-                            <p>Sampaikan laporan pengaduan masyarakat terkait pelayanan publik secara langsung.</p>
+                            <p>Menyampaikan pengaduan tentang layanan publik yang kurang memadai atau bermasalah.</p>
                         </div>
                     </div><!-- End Service Item -->
 
                     <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
                         <div class="service-item position-relative">
                             <i class="bi bi-bounding-box-circles"></i>
-                            <h4><a href="" class="stretched-link">Informasi Publik</a></h4>
-                            <p>Peroleh informasi terkini tentang kebijakan dan program pemerintah yang relevan dengan
-                                masyarakat.</p>
+                            <h4><a href="" class="stretched-link">Informasi Terkait</a></h4>
+                            <p>Mendapatkan informasi terkait kebijakan atau layanan publik yang tersedia.</p>
                         </div>
                     </div><!-- End Service Item -->
 
@@ -167,7 +166,7 @@
                         <div class="service-item position-relative">
                             <i class="bi bi-calendar4-week"></i>
                             <h4><a href="" class="stretched-link">Status Laporan</a></h4>
-                            <p>Periksa status pengaduan Anda dan mendapatkan update perkembangan penanganannya.</p>
+                            <p>Melacak perkembangan pengaduan yang telah Anda ajukan.</p>
                         </div>
                     </div><!-- End Service Item -->
 
@@ -175,7 +174,7 @@
                         <div class="service-item position-relative">
                             <i class="bi bi-broadcast"></i>
                             <h4><a href="" class="stretched-link">Akses Cepat</a></h4>
-                            <p>Mudah dan cepat untuk melaporkan masalah atau mencari informasi yang dibutuhkan.</p>
+                            <p>Mudah dan cepat dalam mengakses layanan pengaduan online.</p>
                         </div>
                     </div><!-- End Service Item -->
 
@@ -186,7 +185,7 @@
         </section><!-- /Services Section -->
 
         <!-- Stats Section -->
-        <section id="stats" class="stats section">
+        <section id="total" class="stats section">
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -207,7 +206,7 @@
                                     <div>
                                         <span data-purecounter-start="0" data-purecounter-end="232"
                                             data-purecounter-duration="1" class="purecounter"></span>
-                                        <p><strong>Happy Clients</strong> <span>consequuntur quae</span></p>
+                                        <p><strong>Jumlah Pengaduan yang berhasil dikerjakan</strong></p>
                                     </div>
                                 </div>
                             </div><!-- End Stats Item -->
@@ -218,7 +217,8 @@
                                     <div>
                                         <span data-purecounter-start="0" data-purecounter-end="521"
                                             data-purecounter-duration="1" class="purecounter"></span>
-                                        <p><strong>Projects</strong> <span>adipisci atque cum quia aut</span></p>
+                                        <p><strong>Total pengaduan dari masyarakat</strong> <span>adipisci atque cum
+                                                quia aut</span></p>
                                     </div>
                                 </div>
                             </div><!-- End Stats Item -->
